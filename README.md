@@ -18,9 +18,9 @@ Sou estudante de Sistemas de Informação na Universidade Federal dos Vales do J
 
 Aqui estão alguns dos meus projetos recentes:
 
-- [Lanchonete do Zé](link para o projeto) - Foi um projeto desenvolvido em Java, para a matéria de POO, nas quais, tinha que aplicar os conhecimentos adquiridos em sala.
-- [Meu Porfólio](link para o projeto) - Quando comecei a me interessar pelo Front-end, fiz um portfólio como maneira de aplicar meus conhecimentos.
-- [E-commerce Mobile](link para o projeto) - Assim como os outros, desenvolvi um pequeno projeto em React Native para aplicar as técnicas aprendidas.
+- [Lanchonete do Zé] - Foi um projeto desenvolvido em Java, para a matéria de POO, nas quais, tinha que aplicar os conhecimentos adquiridos em sala.
+- [Meu Porfólio] - Quando comecei a me interessar pelo Front-end, fiz um portfólio como maneira de aplicar meus conhecimentos.
+- [E-commerce Mobile] - Assim como os outros, desenvolvi um pequeno projeto em React Native para aplicar as técnicas aprendidas.
   
 Você pode encontrar mais detalhes sobre meus projetos no meu [perfil do GitHub](https://github.com/EnicarlosJr).
 

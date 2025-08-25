@@ -1,32 +1,22 @@
-# Olá, eu sou Enicarlos Júnior
-
-Sou estudante de Sistemas de Informação na Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM) e estou buscando oportunidades de estágio na área de desenvolvimento de software. Estou animado para contribuir e aprender mais sobre a indústria de tecnologia.
-
-## Sobre mim
-
-- 🎓 Atualmente estou cursando Sistemas de Informação na UFVJM.
-- 💻 Tenho experiência e conhecimento em diversas áreas, incluindo:
-  - Linguagens de programação: Java, JavaScript, Python
-  - Desenvolvimento web: HTML, CSS, React.js
-  - Desenvolvimento mobile: React Native
-  - Banco de dados: SQL, NoSQL
-  - Ferramentas de visualização de dados: Power BI
-- 🌱 Estou constantemente aprendendo e buscando novas habilidades para aprimorar meu conhecimento técnico.
-- 👨‍💻 Estou interessado em oportunidades de estágio onde eu possa aplicar meus conhecimentos e contribuir para projetos interessantes.
-
-## Projetos
-
-Aqui estão alguns dos meus projetos recentes:
-
-- [Lanchonete do Zé] - Foi um projeto desenvolvido em Java, para a matéria de POO, nas quais, tinha que aplicar os conhecimentos adquiridos em sala.
-- [Meu Porfólio] - Quando comecei a me interessar pelo Front-end, fiz um portfólio como maneira de aplicar meus conhecimentos.
-- [E-commerce Mobile] - Assim como os outros, desenvolvi um pequeno projeto em React Native para aplicar as técnicas aprendidas.
-  
-Você pode encontrar mais detalhes sobre meus projetos no meu [perfil do GitHub](https://github.com/EnicarlosJr).
-
-## Contato
-
-- 📧 Você pode entrar em contato comigo através do meu e-mail: enicarlos.junior@ufvjm.edu.br
-- 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/enicarlosjr/)
-  
-Estou ansioso para fazer parte de projetos incríveis e contribuir para o sucesso da sua equipe!
+👨‍💻 Enicarlos Júnior
+Sou desenvolvedor de software formado em Sistemas de Informação pela UFVJM, com experiência prática em desenvolvimento web, mobile e análise de dados. Atuo na criação de soluções escaláveis e funcionais, unindo boas práticas de engenharia de software com foco em usabilidade e resultados.
+🚀 Tecnologias & Competências
+⦁	Linguagens: Python, JavaScript, Java
+⦁	Frameworks & Bibliotecas: Django, React.js, React Native
+⦁	Web & Mobile: HTML5, CSS3, APIs REST
+⦁	Banco de Dados: PostgreSQL, MySQL, SQLite, NoSQL
+⦁	Data & Analytics: Power BI, Pandas, NumPy, Chart.js, ECharts
+⦁	Ferramentas & Versionamento: Git, GitHub, Docker
+📂 Projetos em Destaque
+⦁	[Farmácia Escola UFVJM – Sistema Clínico Web]  
+Projeto de pesquisa e desenvolvimento acadêmico-profissional. Plataforma completa para gestão clínica, consultas, dashboards e relatórios dinâmicos, utilizando Django, PostgreSQL e ECharts.
+⦁	[E-commerce Mobile]  
+Aplicativo desenvolvido em React Native, integrando fluxo de produtos, carrinho e autenticação de usuários.
+⦁	[Lanchonete do Zé]  
+Sistema de gestão em Java (POO), com cadastro de clientes, produtos e controle de pedidos.
+⦁	[Portfólio Pessoal]  
+Site responsivo desenvolvido em React.js, servindo como vitrine profissional.
+Mais projetos disponíveis no meu perfil do GitHub.
+🌎 Contato
+⦁	📧 enicarlos.junior@ufvjm.edu.br
+⦁	🔗 LinkedIn

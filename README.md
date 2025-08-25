@@ -1,22 +1,36 @@
-👨‍💻 Enicarlos Júnior
-Sou desenvolvedor de software formado em Sistemas de Informação pela UFVJM, com experiência prática em desenvolvimento web, mobile e análise de dados. Atuo na criação de soluções escaláveis e funcionais, unindo boas práticas de engenharia de software com foco em usabilidade e resultados.
-🚀 Tecnologias & Competências
-⦁	Linguagens: Python, JavaScript, Java
-⦁	Frameworks & Bibliotecas: Django, React.js, React Native
-⦁	Web & Mobile: HTML5, CSS3, APIs REST
-⦁	Banco de Dados: PostgreSQL, MySQL, SQLite, NoSQL
-⦁	Data & Analytics: Power BI, Pandas, NumPy, Chart.js, ECharts
-⦁	Ferramentas & Versionamento: Git, GitHub, Docker
-📂 Projetos em Destaque
-⦁	[Farmácia Escola UFVJM – Sistema Clínico Web]  
-Projeto de pesquisa e desenvolvimento acadêmico-profissional. Plataforma completa para gestão clínica, consultas, dashboards e relatórios dinâmicos, utilizando Django, PostgreSQL e ECharts.
-⦁	[E-commerce Mobile]  
-Aplicativo desenvolvido em React Native, integrando fluxo de produtos, carrinho e autenticação de usuários.
-⦁	[Lanchonete do Zé]  
-Sistema de gestão em Java (POO), com cadastro de clientes, produtos e controle de pedidos.
-⦁	[Portfólio Pessoal]  
-Site responsivo desenvolvido em React.js, servindo como vitrine profissional.
-Mais projetos disponíveis no meu perfil do GitHub.
-🌎 Contato
-⦁	📧 enicarlos.junior@ufvjm.edu.br
-⦁	🔗 LinkedIn
+# 👨‍💻 Olá, eu sou Enicarlos Júnior  
+
+Sou **desenvolvedor de software** formado em **Sistemas de Informação pela UFVJM**, com experiência prática em **desenvolvimento web, mobile e análise de dados**. Tenho interesse em criar soluções tecnológicas que gerem impacto real, unindo boas práticas de programação, escalabilidade e foco no usuário.  
+
+## 🚀 Sobre mim  
+
+- 🎓 Formação em **Sistemas de Informação (UFVJM)**.  
+- 💻 Experiência em:  
+  - **Linguagens:** Python, JavaScript, Java  
+  - **Web:** HTML5, CSS3, React.js  
+  - **Mobile:** React Native  
+  - **Banco de Dados:** SQL (PostgreSQL, MySQL, SQLite), NoSQL  
+  - **Visualização de Dados:** Power BI, Pandas, Chart.js, ECharts  
+- 🌱 Sempre em aprendizado contínuo, explorando novas tecnologias e metodologias ágeis.  
+- 👨‍💻 Interesse em contribuir para **projetos desafiadores** nas áreas de desenvolvimento full stack, mobile e análise de dados.  
+
+## 📂 Projetos em Destaque  
+
+- **[Farmácia Escola UFVJM – Sistema Clínico Web]**  
+  Desenvolvimento de uma plataforma completa para gestão de pacientes, consultas e dashboards clínicos. Tecnologias: **Django, PostgreSQL, ECharts**.  
+
+- **[E-commerce Mobile]**  
+  Aplicativo em **React Native** com fluxo de autenticação, listagem de produtos e carrinho.  
+
+- **[Lanchonete do Zé]**  
+  Sistema de gestão em **Java (POO)** para controle de pedidos, produtos e clientes.  
+
+- **[Portfólio Pessoal]**  
+  Site responsivo em **React.js**, servindo como vitrine profissional.  
+
+➡️ Confira mais projetos no meu [GitHub](https://github.com/EnicarlosJr).  
+
+## 🌎 Contato  
+
+- 📧 **enicarlos.junior@ufvjm.edu.br**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/enicarlosjr/)  

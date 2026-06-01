@@ -126,15 +126,6 @@ Gerenciador de conteúdo para publicação de artigos com categorização, busca
 
 ---
 
-## 🚀 Próximos Passos
-
-1. **Publicar documentação** completa dos projetos com prints e arquitetura
-2. **Deploy em produção** do sistema Farmácia Escola  
-3. **Adicionar testes automatizados** e CI/CD pipeline
-4. **Explorar** novas tecnologias em saúde digital e escalabilidade
-
----
-
 ### ⭐ Se achou interessante, considere dar uma estrela nos repositórios! 
 
 Fico feliz em conversar sobre desenvolvimento web, saúde digital, ou qualquer desafio técnico.
